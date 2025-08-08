@@ -19,6 +19,7 @@ The dataset used is the **Advertising dataset**, which contains historical ad sp
 ---
 
 ## 📂 Project Structure
+
 sales-prediction-ml/
 │
 ├── data/
